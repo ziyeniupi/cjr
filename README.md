@@ -6,7 +6,7 @@
 <td style="width:70%;">
 <p>陈亦
 </p>
-</td></tr
+</td>
 <td>
 <p><b>常用ID</b>
 </p>
@@ -14,7 +14,7 @@
 <td>
 <p>创价人<br>Fortup<br>Mxli酱<br>爆破帝<br>新年号令和<br>阿伟sl 
 </p>
-</td></tr>
+</td>
 <tr>
 <td>
 <p><b>职业</b>
