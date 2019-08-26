@@ -6,8 +6,7 @@
 <td style="width:70%;">
 <p>陈亦
 </p>
-</td></tr>
-<tr>
+</td></tr
 <td>
 <p><b>常用ID</b>
 </p>
@@ -69,4 +68,6 @@
 <td>
 <p>网蛆
 </p>
-</td></tr></tbody>
+屑站主页：https://space.bilibili.com/319144728/
+QQ：1205172431
+所在地：上海
