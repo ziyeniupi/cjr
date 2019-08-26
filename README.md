@@ -13,7 +13,7 @@
 </p>
 </td>
 <td>
-<p>创价人<br>Fortup<br>Mxli酱<br>爆破帝<br>新年号令和<br>阿伟sl trx
+<p>创价人<br>Fortup<br>Mxli酱<br>爆破帝<br>新年号令和<br>阿伟sl 
 </p>
 </td></tr>
 <tr>
